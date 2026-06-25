@@ -1,10 +1,7 @@
 🍔 SnapFood Customer Sentiment Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)         ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)  ![License](https://img.shields.io/badge/License-MIT-green)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-
-![License](https://img.shields.io/badge/License-MIT-green)
 
 📌 Project Overview
 
@@ -108,17 +105,7 @@ The Logistic Regression model achieved strong and balanced performance across bo
 ---
 
 
----
 
-🚀 Installation
-
-git clone https://github.com/yourusername/SnapFood-Sentiment-Analysis.git
-
-cd SnapFood-Sentiment-Analysis
-
-pip install -r requirements.txt
-
----
 
 ▶️ Run
 
@@ -291,13 +278,6 @@ Full Dataset| —| —| —| —
 
 ---
 
-🚀 Installation
-
-git clone https://github.com/yourusername/california-housing-price-prediction.git
-
-cd california-housing-price-prediction
-
-pip install -r requirements.txt
 
 ---
 
